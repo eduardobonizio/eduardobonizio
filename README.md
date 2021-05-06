@@ -1,4 +1,6 @@
-### Hi there 👋
+Sou uma pessoa descontraída, que gosta de desafios, adoro poder trocar conhecimentos e acredito que ter pessoas com quem contar é muito importante. Nas horas vagas gosto de ficar com minha esposa, assistir uma boa serie ou filme e também gosto muito de jogos digitais. Me formei em análise e desenvolvimento de sistemas e agora estou aprimorando minhas habilidades de desenvolvedor e de soft skills na Trybe. 
+
+Sou estudante de desenvolvimento de software, desenvolvedor front-end e em breve desenvolvedor web Full Stack.
 
 <!--
 **eduardobonizio/eduardobonizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
